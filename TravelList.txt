@@ -1,19 +1,23 @@
+North America
 Yukon
 NWT
 Canadian East Coast
 Canadian West Coast
 
+South America
 Brazil
 Argentina /Patagonia
 Chile
 Galapagos
 Hawaii
 
+Africa
 Kenya
 Tanzania
 South Africa
 Maldives
 
+Europe
 Spain
 Morocco
 Portugal
@@ -27,22 +31,27 @@ Monaco
 Greece
 Benelux
 
+Asia/Middle East
 Russia
+Kazakhstan/Uzbekistan
 Jordan
 Turkey
 UAE
 
+South Asia
 Northern Pakistan
 Parts of India
 Nepal
 Kashmir
 
+Far East
 Vietnam
 Thailand
 Malaysia
 Singapore
 China 
 
+Down Under
 Australia
 New Zealand
 French Polynesia

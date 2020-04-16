@@ -2,18 +2,21 @@ Yukon
 NWT
 Canadian East Coast
 Canadian West Coast
+
 Brazil
 Argentina /Patagonia
 Chile
 Galapagos
 Hawaii
-Spain
-Morocco
-Portugal
+
 Kenya
 Tanzania
 South Africa
 Maldives
+
+Spain
+Morocco
+Portugal
 Iceland 
 Denmark
 Finland
@@ -23,19 +26,23 @@ Italy
 Monaco
 Greece
 Benelux
+
 Russia
 Jordan
 Turkey
 UAE
+
 Northern Pakistan
 Parts of India
 Nepal
 Kashmir
+
 Vietnam
 Thailand
 Malaysia
 Singapore
 China 
+
 Australia
 New Zealand
 French Polynesia
